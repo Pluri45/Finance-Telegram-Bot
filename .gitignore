@@ -1,0 +1,3 @@
+# Ignore the virtual environment folder
+.venv/
+TOKEN = '7116131557:AAFMIEQA4Cs4rFGO0mRQdM-iPrzklfnWhEQ'
